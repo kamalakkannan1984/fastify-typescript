@@ -10,7 +10,8 @@
     "postinstall": "npm run build",
     "start": "node --inspect=5858 -r ts-node/register ./app/index.ts",
     "start:watch": "nodemon",
-    "lint": "tslint -c tslint.json -p tsconfig.json --fix"
+    "lint": "tslint -c tslint.json -p tsconfig.json --fix",
+    "start:prod": "node dist/index.js"
   },
   "keywords": [],
   "author": "kamal",
