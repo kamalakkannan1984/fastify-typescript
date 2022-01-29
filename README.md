@@ -4,7 +4,7 @@ This has the javascript code which uses fastify nodejs framework to serve fronte
 git clone https://github.com/kamalakkannan1984/fastify-typescript.git
 
 # install
-```` yarn ```
+``` yarn ```
 
 # start
 ``` yarn start:watch ```
