@@ -13,7 +13,7 @@
     "lint": "tslint -c tslint.json -p tsconfig.json --fix"
   },
   "keywords": [],
-  "author": "",
+  "author": "kamal",
   "license": "MIT",
   "devDependencies": {
     "@types/node": "^17.0.13",
